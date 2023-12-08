@@ -1,0 +1,138 @@
+.bth-secondary{
+  background-color: #EDEEF0;
+}
+.margin-0{
+  margin: 0 !important;
+}
+
+.p-0{
+  padding: 0 !important;
+}
+
+/*   Navbar    */
+.navLogo{
+  height: 24px;
+  width: 162px;
+}
+.navbar-collapse{
+  flex-grow: 0 !important;
+}
+.dropdown a {
+  font-weight: 600;
+}
+.navSearchBar{
+  width: 320px;
+  height: 42px;
+  border-radius: 21px;
+  border: none;
+  background-color: #F2F2F2;
+  color: #5C5C5C;
+  padding:  10px 0 10px 50px;
+  font-size: 14px;
+}
+.searchBarContainer{
+  position: relative;
+}
+.searchBarContainer img {
+  height: 22px;
+  width: 22px;
+  position: absolute;
+  left: 14px;
+  top: 11px;
+}
+/*   Navbar    */
+
+/*   Banner    */
+.homeBanner .textContainer{
+  padding-left: 100px;
+}
+.homeBanner img{
+  filter: brightness(50%);
+}
+.bannerText{
+  bottom: 80px;
+  left: 128px;
+  color: white;
+}
+/*   Banner    */
+
+/*   BlogPost    */
+
+.blogPostMargin{
+  margin-top: 40px;
+}
+.p-color{
+  color: #5C5C5C;
+  font-size: 19px;
+}
+.card-title{
+  font-size: 22px;
+  font-weight: 600;
+}
+.card-profile-img{
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 !important;
+}
+.view-paragraph{
+  color: #525252;
+  font-size: 15px;
+  font-weight: 500;
+}
+.padding-left-50{
+  padding-left: 50px !important;
+}
+.mt-50{
+  margin-top: 50px;
+}
+/*   BlogPost    */
+
+/* modal */
+.formHeader{
+  margin-bottom: 15px;
+  font-size: 24px;
+  font-weight: 700;
+}
+.createAccBtn{
+  font-weight: 600 !important;
+  width: 100%;
+  border-radius: 20px !important;
+  margin-top: 15px;
+  margin-bottom: 18px;
+}
+.forgotPass{
+  text-align: center;
+  font-size: 12px;
+  font-weight: 500;
+  color: #000;
+  margin-top: 23px;
+}
+.modalHeader{
+  background-color: #EFFFF4;
+  padding: 17px 0;
+}
+.modalHeader p{
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  color: #008A45;
+}
+.signInPara{
+  text-align: right;
+  font-size: 13px;
+  color: #3D3D3D;
+  font-weight: 400;
+}
+.signInPara span{
+  color: #2F6CE5;
+  font-weight: 600;
+}
+.modalBody{
+  padding: 36px;
+}
+.privacyPara{
+  font-size: 11px;
+  font-weight: 400;
+  text-align: center;
+}
+/* modal */
